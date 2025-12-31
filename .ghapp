@@ -1,0 +1,10 @@
+{
+  "id": 102020713,
+  "created_at": "2025-12-31T14:14:26.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["fundsr"]
+}
