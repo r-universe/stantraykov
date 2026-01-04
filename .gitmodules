@@ -5,3 +5,4 @@
 [submodule "fundsr"]
 	path = fundsr
 	url = https://github.com/StanTraykov/fundsr
+	branch = *release
